@@ -1,0 +1,50 @@
+{
+    "Name": {
+        "type": "string",
+        "value": "Test Container"
+    },
+
+    "Position": {
+        "type": "vector",
+        "value": "vec4(50.0, 200.0, 30.0, 0.0)"
+    },
+
+    "Children": {
+        "type": "table",
+        "value": [
+            {
+                "type": "table",
+                "class": "Entity",
+                "value": {
+                    "Name": {
+                        "type": "string",
+                        "value": "Nested Entity 1"
+                    },
+                    "Dps": {
+                        "type": "float",
+                        "value": 1.5
+                    },
+                    "Position": {
+                        "type": "vector",
+                        "value": "vec4(50.0, 200.0, 30.0, 0.0)"
+                    }
+                }
+            },
+            {
+                "type": "table",
+                "class": "Entity",
+                "value": {
+                    "Name": {
+                        "type": "string",
+                        "value": "Nested Entity 2"
+                    },
+                    "Dps": {
+                        "type": "float",
+                        "value": 10.0
+                    }
+                }
+            }
+        ]
+    }
+}
+

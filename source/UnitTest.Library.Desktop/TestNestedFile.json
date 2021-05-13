@@ -1,0 +1,24 @@
+{
+    "Name": {
+        "type": "string",
+        "value": "World 1"
+    },
+
+    "Tag": {
+        "type": "string",
+        "value": "World"
+    },
+
+    "Children": {
+        "type": "table",
+        "value": [
+            {
+                "file": "TestAvatar.json"
+            },
+            {
+                "file": "TestAvatar.json"
+            }
+        ]
+    }
+}
+

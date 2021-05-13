@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Pistol.cpp">
+      <Filter>Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="MachineGun.cpp">
+      <Filter>Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Revolver.cpp">
+      <Filter>Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Shotgun.cpp">
+      <Filter>Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Number.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreManager.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Crate.cpp">
+      <Filter>Crates</Filter>
+    </ClCompile>
+    <ClCompile Include="CrateManager.cpp">
+      <Filter>Crates</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelGenerator.cpp">
+      <Filter>Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyManager.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomGame.cpp" />
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Pistol.h">
+      <Filter>Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="MachineGun.h">
+      <Filter>Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Revolver.h">
+      <Filter>Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Shotgun.h">
+      <Filter>Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Number.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreManager.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Crate.h">
+      <Filter>Crates</Filter>
+    </ClInclude>
+    <ClInclude Include="CrateManager.h">
+      <Filter>Crates</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelGenerator.h">
+      <Filter>Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyManager.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionDefines.h" />
+    <ClInclude Include="CustomGame.h" />
+    <ClInclude Include="AudioManager.h">
+      <Filter>Audio</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Sprites">
+      <UniqueIdentifier>{7a120dc4-90ef-412a-b4c9-b460a8cadebc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{d695913b-7289-4e92-944a-d9cceb346320}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Example JSON">
+      <UniqueIdentifier>{3996e500-4114-42f0-81a7-17d236b82ff1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{67fa8a0e-116e-4362-8556-58cae02bea5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="JSON">
+      <UniqueIdentifier>{15decbfe-d29f-44fe-9875-0b8b115b72bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Weapon">
+      <UniqueIdentifier>{78f12489-b04e-470d-a3c6-97c8f1e76794}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Projectiles">
+      <UniqueIdentifier>{0e0a2293-de0c-4e08-a5dd-9349b3e5e253}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Levels">
+      <UniqueIdentifier>{a45c0d87-92c0-4847-98d8-38ba8b9fcf91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="JSON\Weapons">
+      <UniqueIdentifier>{c21d3875-a0ea-4219-8319-d0d0af714828}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="JSON\Player">
+      <UniqueIdentifier>{f2e31f98-219d-4133-a81b-0df1f3173dd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{1e8a5bfe-ea27-489f-bbb0-1e135fb27d6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="JSON\UI">
+      <UniqueIdentifier>{deafbd4a-4ca1-449c-8430-bcc250573194}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="JSON\Managers">
+      <UniqueIdentifier>{43c3f395-53a3-4ecd-8984-d64c1909f500}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Crates">
+      <UniqueIdentifier>{8a6386c3-150b-464d-a5a1-c3e25d269e8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemies">
+      <UniqueIdentifier>{215766c0-6a7b-415f-ba50-eb3bcfec29f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Audio">
+      <UniqueIdentifier>{f8ca2721-f0ab-45a0-b234-ffe398c18e89}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LevelKey.txt">
+      <Filter>Levels</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <CopyFileToFolders Include="ExampleGround.json" />
+    <CopyFileToFolders Include="BlockEnd.png" />
+    <CopyFileToFolders Include="BlockMiddle.png" />
+    <CopyFileToFolders Include="bullet.png" />
+    <CopyFileToFolders Include="container.jpg" />
+    <CopyFileToFolders Include="Crate.png" />
+    <CopyFileToFolders Include="level.png" />
+    <CopyFileToFolders Include="MachineGun.png" />
+    <CopyFileToFolders Include="Number0.png" />
+    <CopyFileToFolders Include="Number1.png" />
+    <CopyFileToFolders Include="Number2.png" />
+    <CopyFileToFolders Include="Number3.png" />
+    <CopyFileToFolders Include="Number4.png" />
+    <CopyFileToFolders Include="Number5.png" />
+    <CopyFileToFolders Include="Number6.png" />
+    <CopyFileToFolders Include="Number7.png" />
+    <CopyFileToFolders Include="Number8.png" />
+    <CopyFileToFolders Include="Number9.png" />
+    <CopyFileToFolders Include="PaulOnline3.png" />
+    <CopyFileToFolders Include="PaulOnlineWhole.png" />
+    <CopyFileToFolders Include="PaulOnline1.png" />
+    <CopyFileToFolders Include="PaulOnline2.png" />
+    <CopyFileToFolders Include="Pistol.png" />
+    <CopyFileToFolders Include="PlayerDeath.png" />
+    <CopyFileToFolders Include="PlayerIdle.png" />
+    <CopyFileToFolders Include="PlayerJump.png" />
+    <CopyFileToFolders Include="PlayerWalk.png" />
+    <CopyFileToFolders Include="Revolver.png" />
+    <CopyFileToFolders Include="Shotgun.png" />
+    <CopyFileToFolders Include="WallMiddle.png" />
+    <CopyFileToFolders Include="Crate.json" />
+    <CopyFileToFolders Include="CrateManager.json" />
+    <CopyFileToFolders Include="Enemy.json" />
+    <CopyFileToFolders Include="EnemyManager.json" />
+    <CopyFileToFolders Include="ExampleEntity.json" />
+    <CopyFileToFolders Include="ExampleTiles.json" />
+    <CopyFileToFolders Include="ExampleWalkingAnimation.json" />
+    <CopyFileToFolders Include="ExampleWorld.json" />
+    <CopyFileToFolders Include="ExampleMap.json" />
+    <CopyFileToFolders Include="MachineGun.json" />
+    <CopyFileToFolders Include="Managers.json" />
+    <CopyFileToFolders Include="Map.json" />
+    <CopyFileToFolders Include="Numbers.json" />
+    <CopyFileToFolders Include="Pistol.json" />
+    <CopyFileToFolders Include="Player.json" />
+    <CopyFileToFolders Include="PlayerDeathAnim.json" />
+    <CopyFileToFolders Include="PlayerIdleAnim.json" />
+    <CopyFileToFolders Include="PlayerJumpAnim.json" />
+    <CopyFileToFolders Include="PlayerWalkAnim.json" />
+    <CopyFileToFolders Include="Projectile.json" />
+    <CopyFileToFolders Include="Revolver.json" />
+    <CopyFileToFolders Include="ScoreManager.json" />
+    <CopyFileToFolders Include="shader.frag" />
+    <CopyFileToFolders Include="shader.vert" />
+    <CopyFileToFolders Include="Shotgun.json" />
+    <CopyFileToFolders Include="SimpleFragmentShader.fragmentshader" />
+    <CopyFileToFolders Include="SimpleVertexShader.vertexshader" />
+    <CopyFileToFolders Include="UI.json" />
+    <CopyFileToFolders Include="WeaponBase.json" />
+    <CopyFileToFolders Include="World.json" />
+    <CopyFileToFolders Include="DefaultLevel.txt" />
+    <CopyFileToFolders Include="8BitHipHopRapInstrumentalMonkeyIsland.mp3" />
+    <CopyFileToFolders Include="AfterTheBurialBerzerker8bit.mp3" />
+    <CopyFileToFolders Include="ak.mp3" />
+    <CopyFileToFolders Include="BRR.wav" />
+    <CopyFileToFolders Include="ContrivedExample.wav" />
+    <CopyFileToFolders Include="DUDE.wav" />
+    <CopyFileToFolders Include="extra_generic_shot.mp3" />
+    <CopyFileToFolders Include="generic_shot.mp3" />
+    <CopyFileToFolders Include="hit.mp3" />
+    <CopyFileToFolders Include="jump.mp3" />
+    <CopyFileToFolders Include="LiterallyPaulDied.wav" />
+    <CopyFileToFolders Include="MicrosoftTeamsMessageSoundNotification.mp3" />
+    <CopyFileToFolders Include="No.wav" />
+    <CopyFileToFolders Include="PapaSmurfLostHisShit.wav" />
+    <CopyFileToFolders Include="shotty reload.mp3" />
+    <CopyFileToFolders Include="shotty.mp3" />
+    <CopyFileToFolders Include="ShutUp.wav" />
+    <CopyFileToFolders Include="ThatsMyFace.wav" />
+    <CopyFileToFolders Include="ThisIsRecording.wav" />
+    <CopyFileToFolders Include="Yes.wav" />
+    <CopyFileToFolders Include="Background.png" />
+    <CopyFileToFolders Include="EnemyFast.png" />
+    <CopyFileToFolders Include="EnemyNormal.png" />
+    <CopyFileToFolders Include="explosion.wav" />
+    <CopyFileToFolders Include="GameOverScreen.png" />
+    <CopyFileToFolders Include="IncrementScoreReaction.json" />
+    <CopyFileToFolders Include="Instructions.png" />
+    <CopyFileToFolders Include="MainMenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="BornofOsiris-Machine(8-BitRemix).mp3" />
+    <Media Include="WITHINTHERUINS-ATAXIAIIDJ8NTREMIX8BIT.mp3" />
+  </ItemGroup>
+</Project>

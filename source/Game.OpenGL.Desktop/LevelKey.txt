@@ -1,0 +1,4 @@
+_ for empty space
+# for blocks
+$ for spawn point
+| for wall tile

@@ -1,0 +1,40 @@
+{
+    "Name": {
+        "type": "string",
+        "value": "Avatar 1"
+    },
+
+    "Health": {
+        "type": "integer",
+        "value": 100
+    },
+
+    "Dps": {
+        "type": "float",
+        "value": 2.3
+    },
+
+    "Scale": {
+        "type": "vector",
+        "value": "vec4(2.0, 2.0, 2.0, 0.0)"
+    },
+
+    "Actions": {
+        "type": "table",
+        "class": "ActionIncrement",
+        "value": {
+            "Name": {
+                "type": "string",
+                "value": "IncrementDPS"
+            },
+            "Target": {
+                "type": "string",
+                "value": "Dps"
+            },
+            "Step": {
+                "type": "float",
+                "value": 1.0
+            }
+        }
+    }
+}

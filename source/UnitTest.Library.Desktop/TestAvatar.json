@@ -1,0 +1,22 @@
+{
+    "type": "table",
+    "class": "Avatar",
+    "value": {
+        "Name": {
+            "type": "string",
+            "value": "Entity 2"
+        },
+        "Health": {
+            "type": "integer",
+            "value": 100
+        },
+        "Dps": {
+            "type": "float",
+            "value": 2.3
+        },
+        "Scale": {
+            "type": "vector",
+            "value": "vec4(2.0, 2.0, 2.0, 0.0)"
+        }
+    }
+}

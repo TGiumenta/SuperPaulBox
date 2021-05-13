@@ -1,0 +1,93 @@
+{
+    "Name": {
+        "type": "string",
+        "value": "World 1"
+    },
+
+    "Tag": {
+        "type": "string",
+        "value": "World"
+    },
+
+    "Children": {
+        "type": "table",
+        "value": [
+            {
+                "type": "table",
+                "class": "Entity",
+                "value": {
+                    "Name": {
+                        "type": "string",
+                        "value": "Sector 1"
+                    },
+
+                    "Tag": {
+                        "type": "string",
+                        "value": "Sector"
+                    },
+
+                    "Children": {
+                        "type": "table",
+                        "value": [
+                            {
+                                "type": "table",
+                                "class": "Entity",
+                                "value": {
+                                    "Name": {
+                                        "type": "string",
+                                        "value": "Entity 1"
+                                    },
+                                    "Dps": {
+                                        "type": "float",
+                                        "value": 1.5
+                                    },
+                                    "Position": {
+                                        "type": "vector",
+                                        "value": "vec4(50.0, 200.0, 30.0, 0.0)"
+                                    }
+                                }
+                            },
+                            {
+                                "type": "table",
+                                "class": "Avatar",
+                                "value": {
+                                    "Name": {
+                                        "type": "string",
+                                        "value": "Entity 2"
+                                    },
+                                    "Health": {
+                                        "type": "integer",
+                                        "value": 100
+                                    },
+                                    "Dps": {
+                                        "type": "float",
+                                        "value": 2.3
+                                    },
+                                    "Scale": {
+                                        "type": "vector",
+                                        "value": "vec4(2.0, 2.0, 2.0, 0.0)"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "table",
+                "class": "Entity",
+                "value": {
+                    "Name": {
+                        "type": "string",
+                        "value": "Sector 2"
+                    },
+
+                    "Tag": {
+                        "type": "string",
+                        "value": "Sector"
+                    }
+                }
+            }
+        ]
+    }
+}

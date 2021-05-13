@@ -1,0 +1,86 @@
+{
+    "Name": {
+        "type": "string",
+        "value": "Test Name"
+    },
+
+    "Health": {
+        "type": "integer",
+        "value": 100
+    },
+
+    "Direction": {
+        "type": "vector",
+        "value": "vec4(1, 0, 0, 1)"
+    },
+
+    "Transform": {
+        "type": "matrix",
+        "value": "mat4x4((1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0, 0, 0, 1))"
+    },
+
+    "Aliases": {
+        "type": "string",
+        "value": [ "hi", "hello", "hey" ]
+    },
+
+    "Address": {
+        "type": "table",
+        "value": {
+            "Street": {
+                "type": "string",
+                "value": "123 Anystreet St."
+            },
+            "City": {
+                "type": "string",
+                "value": "Orlando"
+            },
+            "Postal Code": {
+                "type": "table",
+                "value": {
+                    "Zip Code": {
+                        "type": "integer",
+                        "value": 12345
+                    },
+                    "Zip Code+4": {
+                        "type": "integer",
+                        "value": 6789
+                    }
+                }
+            }
+        }
+    },
+
+    "Powers": {
+        "type": "table",
+        "value": [
+            {
+                "type": "table",
+                "class": "Power",
+                "value": {
+                    "Name": {
+                        "type": "string",
+                        "value": "Laser Vision"
+                    },
+                    "Dps": {
+                        "type": "float",
+                        "value": 1.5
+                    }
+                }
+            },
+            {
+                "type": "table",
+                "value": {
+                    "Name": {
+                        "type": "string",
+                        "value": "Super Strength"
+                    },
+                    "Dps": {
+                        "type": "float",
+                        "value": 10.0
+                    }
+                }
+            }
+        ]
+    }
+}

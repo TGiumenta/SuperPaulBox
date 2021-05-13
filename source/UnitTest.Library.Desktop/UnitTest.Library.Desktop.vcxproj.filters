@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Tests">
+      <UniqueIdentifier>{ae54d674-b484-4c6c-a7b9-019558338952}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Support Classes">
+      <UniqueIdentifier>{f97a72f9-360f-4d89-930f-06c70e00a9d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content">
+      <UniqueIdentifier>{33433f6e-8003-4d82-b4f8-784741ac12a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Support Classes\Json">
+      <UniqueIdentifier>{fce937f1-f03d-4227-bf90-ffacfee864ef}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FooTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="SListTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="SListIteratorTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorIteratorTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultHashTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="HashMapTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="HashMapIteratorTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="DatumTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="foo.cpp">
+      <Filter>Support Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="ScopeTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="AttributedTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="AttributedFoo.cpp">
+      <Filter>Support Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeManagerTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="TestModuleInitialize.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonParseCoordinatorTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonIntegerParseHelper.cpp">
+      <Filter>Support Classes\Json</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonTestParseHelper.cpp">
+      <Filter>Support Classes\Json</Filter>
+    </ClCompile>
+    <ClCompile Include="FactoryTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="Power.cpp">
+      <Filter>Support Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="Avatar.cpp" />
+    <ClCompile Include="ActionTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="foo.h">
+      <Filter>Support Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="AttributedFoo.h">
+      <Filter>Support Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonIntegerParseHelper.h">
+      <Filter>Support Classes\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonTestParseHelper.h">
+      <Filter>Support Classes\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Power.h">
+      <Filter>Support Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Avatar.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Integer.json">
+      <Filter>Content</Filter>
+    </None>
+    <None Include="TestScope.json">
+      <Filter>Content</Filter>
+    </None>
+    <None Include="TestArrays.json">
+      <Filter>Content</Filter>
+    </None>
+    <None Include="EntityTest.json">
+      <Filter>Content</Filter>
+    </None>
+    <None Include="WorldTest.json">
+      <Filter>Content</Filter>
+    </None>
+    <None Include="AvatarActionTest.json">
+      <Filter>Content</Filter>
+    </None>
+    <None Include="ActionListTest.json">
+      <Filter>Content</Filter>
+    </None>
+    <None Include="TestNestedFile.json">
+      <Filter>Content</Filter>
+    </None>
+    <None Include="TestAvatar.json">
+      <Filter>Content</Filter>
+    </None>
+  </ItemGroup>
+</Project>

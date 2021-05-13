@@ -1,0 +1,25 @@
+{
+    "type": "table",
+    "class": "Animation",
+    "value": {
+        "TimeBetween": {
+            "type": "float",
+            "value": 0.1
+        },
+
+        "SpriteWidth": {
+            "type": "integer",
+            "value": 48
+        },
+
+        "StateName": {
+            "type": "string",
+            "value": "Walking"
+        },
+
+        "SpriteSheet": {
+            "type": "string",
+            "value": "PlayerWalk.png"
+        }
+    }
+}

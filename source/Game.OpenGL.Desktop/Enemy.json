@@ -1,0 +1,61 @@
+{
+    "Name": {
+        "type": "string",
+        "value": "Enemy"
+    },
+
+    "Tag": {
+        "type": "string",
+        "value": "Enemy"
+    },
+
+    "Position": {
+      "type": "vector",
+      "value": "vec4(0.0, 39.0, 0.0, 0.0)"
+    },
+
+    "Scale": {
+      "type": "vector",
+      "value": "vec4(5.455, 5.0, 0.0, 0.0)"
+    },
+
+    "Texture": {
+      "type": "string",
+      "value": "EnemyNormal.png"
+    },
+
+    "WalkSpeed": {
+      "type": "float",
+      "value": 800.0
+    },
+
+    "MaxHealth": {
+      "type": "float",
+      "value": 100.0
+    },
+
+    "GravityScale": {
+      "type": "float",
+      "value": 1.0
+    },
+
+    "BodyType": {
+      "type": "string",
+      "value": "dynamic"
+    },
+
+    "LinearDamping": {
+      "type": "float",
+      "value": 0.6
+    },
+
+    "Density": {
+      "type": "float",
+      "value": 6.0
+    },
+
+    "Friction": {
+      "type": "float",
+      "value": 0
+    }
+ }
