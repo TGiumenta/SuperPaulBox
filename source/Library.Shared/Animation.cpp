@@ -24,8 +24,6 @@ namespace FieaGameEngine
 
 	void Animation::Initialize()
 	{
-
-
 		textureInfo = RenderUtil::LoadTexture(m_SpriteSheet);
 		m_NumSprites = (textureInfo.m_width) / m_SpriteWidth;
 

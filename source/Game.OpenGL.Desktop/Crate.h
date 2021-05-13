@@ -27,7 +27,6 @@ public:
 
 private:
 	glm::vec4 m_OriginalLocation{};
-	Weapon* m_HeldWeapon;
 };
 
 ConcreteFactory(Crate, Scope)

@@ -123,6 +123,12 @@ void Player::Notify(const EventPublisher& publisher)
             SetCurrentWeaponByIndex(randomIndex);
             Adopt(*m_CurrentWeapon, "Children");
         }
+
+        const Event<CameraShake>* cameraShakeEvent = publisher.As<Event<CameraShake>>();
+        if (cameraShakeEvent)
+        {
+            RenderUtil::GetCamera().SetPosition(cameraShakeEvent->Message().position);
+        }
     }
 #endif // _DEBUG
 

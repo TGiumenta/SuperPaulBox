@@ -53,18 +53,18 @@ Projectile* Weapon::SpawnProjectile(std::string&& fileName)
 
 	projectilePhysics->SetLinearVelocity(b2Vec2(m_ProjectileXSpeed * facingModifier, 0));
 
-	/*for (size_t index = 0; index < 5; ++index)
+	for (size_t index = 0; index < 5; ++index)
 	{
 		Player::CameraShake payload{ glm::vec3(0, (rand() % 18) - 9, 70) };
 		Event<Player::CameraShake> event(payload);
 		Game::GetGame()->GetWorldState().GetEventQueue().Enqueue
 		(std::make_shared<Event<Player::CameraShake>>(event), std::chrono::milliseconds(50*index));
-	}*/
+	}
 
-	/*Player::CameraShake payload{ RenderUtil::GetDefaultCameraPosition() };
+	Player::CameraShake payload{ RenderUtil::GetDefaultCameraPosition() };
 	Event<Player::CameraShake> event(payload);
 	Game::GetGame()->GetWorldState().GetEventQueue().Enqueue
-	(std::make_shared<Event<Player::CameraShake>>(event), std::chrono::milliseconds(250));*/
+	(std::make_shared<Event<Player::CameraShake>>(event), std::chrono::milliseconds(250));
 
 	return projectile;
 }

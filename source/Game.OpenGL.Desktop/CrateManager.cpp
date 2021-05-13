@@ -56,7 +56,6 @@ Crate* CrateManager::SpawnCrate(const glm::vec4& originalPosition)
 	Entity* entity = Game::GetGame()->GetWorldState().Instantiate("Crate", "Crate.json", m_CratePositions[randomIndex]);
 	SwapWeaponEvent payload{};
 	Event<SwapWeaponEvent> event(payload);
-	//event.Deliver();
     Game::GetGame()->GetWorldState().GetEventQueue().Enqueue
         (std::make_shared<Event<SwapWeaponEvent>>(event));
 

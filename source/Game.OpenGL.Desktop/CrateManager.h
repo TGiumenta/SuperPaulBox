@@ -12,8 +12,6 @@ class Crate;
 struct SwapWeaponEvent : public RTTI
 {
 	RTTI_DECLARATIONS(SwapWeaponEvent, RTTI)
-
-	int i = 0;
 };
 
 class CrateManager final : public Entity, public EventSubscriber
@@ -29,8 +27,6 @@ public:
 	static const Vector<Signature> Signatures();
 
 	virtual void Notify(const EventPublisher& publisher) override;
-
-	
 
 private:
 	Crate* SpawnCrate();
