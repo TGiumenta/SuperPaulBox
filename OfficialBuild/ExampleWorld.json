@@ -1,0 +1,21 @@
+{
+    "Name": {
+        "type": "string",
+        "value": "Example World"
+    },
+
+    "Children": {
+        "type": "table",
+        "value": [
+            {
+                "file":  "UI.json"
+            },
+            {
+                "file":  "Player.json"
+            },
+            {
+                "file": "ExampleMap.json"
+            }
+        ]
+    }
+}

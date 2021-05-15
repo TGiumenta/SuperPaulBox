@@ -1,0 +1,17 @@
+{
+  "type": "table",
+  "value": [
+    {
+      "file": "Pistol.json"
+    },
+    {
+      "file": "MachineGun.json"
+    },
+    {
+      "file": "Revolver.json"
+    },
+    {
+      "file": "Shotgun.json"
+    }
+  ]
+}

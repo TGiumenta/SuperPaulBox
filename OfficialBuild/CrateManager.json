@@ -1,0 +1,24 @@
+{
+  "type": "table",
+  "class": "CrateManager",
+  "value": {
+    "Name": {
+      "type": "string",
+      "value": "CrateManager"
+    },
+
+    "PossiblePositions": {
+      "type": "vector",
+      "value": [
+        "vec4(-60.0, -10.0, 0.0, 0.0",
+        "vec4(-50.0, 0.0, 0.0, 0.0)",
+        "vec4(-30.0, 0.0, 0.0, 0.0)",
+        "vec4(0.75, 15.0, 0.0, 0.0)",
+        "vec4(20.0, 5.0, 0.0, 0.0)",
+        "vec4(45.0, -10.0, 0.0, 0.0)",
+        "vec4(60.0, 0.0, 0.0, 0.0)",
+        "vec4(60.0, 30.0, 0.0, 0.0)"
+      ]
+    }
+  }
+}

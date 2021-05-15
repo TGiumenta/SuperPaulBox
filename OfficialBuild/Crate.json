@@ -1,0 +1,16 @@
+{
+    "Name": {
+      "type": "string",
+      "value": "Crate"
+    },
+
+    "Position": {
+      "type": "vector",
+      "value": "vec4(60.0, 30.0, 0.0, 0.0)"
+    },
+
+    "Scale": {
+      "type": "vector",
+      "value": "vec4(5.0, 5.0, 0.0, 0.0)"
+    }
+}

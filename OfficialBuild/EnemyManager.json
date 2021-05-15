@@ -1,0 +1,10 @@
+{
+  "type": "table",
+  "class": "EnemyManager",
+  "value": {
+    "Name": {
+      "type": "string",
+      "value": "EnemyManager"
+    }
+  }
+}

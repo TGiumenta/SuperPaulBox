@@ -245,9 +245,7 @@
     <CopyFileToFolders Include="IncrementScoreReaction.json" />
     <CopyFileToFolders Include="Instructions.png" />
     <CopyFileToFolders Include="MainMenu.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Media Include="BornofOsiris-Machine(8-BitRemix).mp3" />
-    <Media Include="WITHINTHERUINS-ATAXIAIIDJ8NTREMIX8BIT.mp3" />
+    <CopyFileToFolders Include="BornofOsiris-Machine(8-BitRemix).mp3" />
+    <CopyFileToFolders Include="WITHINTHERUINS-ATAXIAIIDJ8NTREMIX8BIT.mp3" />
   </ItemGroup>
 </Project>

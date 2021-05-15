@@ -1,0 +1,22 @@
+{
+  "type": "table",
+  "class": "Number",
+  "value": {
+    "Name": {
+      "type": "string",
+      "value": "Digit0"
+    },
+    "Position": {
+      "type": "vector",
+      "value": "vec4(10.0, 10.0, 0.0, 0.0)"
+    },
+    "Scale": {
+      "type": "vector",
+      "value": "vec4(6, 6, 0.0, 0.0)"
+    },
+    "Texture": {
+      "type": "string",
+      "value": "Number0.png"
+    }
+  }
+}

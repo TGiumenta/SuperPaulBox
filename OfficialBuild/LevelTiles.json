@@ -1,0 +1,3575 @@
+{
+	"type": "table",
+	"value": [
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-71.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-65.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-59.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-53.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-47.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-41.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-35.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-29.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-23.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-17.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(19.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(25.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(31.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(37.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(43.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(49.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(55.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(61.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(67.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(73.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, 42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, 36.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, 36.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, 30.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-5.0, 30.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(1.0, 30.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(7.0, 30.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, 30.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, 24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, 24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, 18.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, 18.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-59.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-53.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-47.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-41.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-35.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-29.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-23.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-17.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-11.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(13.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(19.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(25.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(31.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(37.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(43.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(49.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(55.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(61.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, 12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, 6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, 6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, 0.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, 0.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, -6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-23.0, -6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-17.0, -6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-11.0, -6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-5.0, -6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(1.0, -6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(7.0, -6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(13.0, -6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(19.0, -6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(25.0, -6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, -6.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, -12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, -12.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, -18.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, -18.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-71.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-65.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-59.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-53.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-47.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-41.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(43.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(49.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(55.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(61.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(67.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(73.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, -24.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, -30.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-71.0, -30.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(73.0, -30.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, -30.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, -36.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-71.0, -36.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(73.0, -36.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Wall"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelWall"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, -36.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "WallMiddle.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-77.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-71.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-65.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-59.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-53.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-47.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-41.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-35.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-29.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-23.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-17.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(-11.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Respawn"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "RespawnZone"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(1.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(18.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "PaulOnlineWhole.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(13.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(19.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(25.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(31.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(37.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(43.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(49.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(55.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(61.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(67.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(73.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		},
+		{
+			"type": "table",
+			"class": "PhysicsEntity",
+			"value": {
+				"Name": {
+					"type": "string",
+					"value" : "Test Ground"
+				},
+				"Tag": {
+					"type": "string",
+					"value" : "LevelGeometry"
+				},
+				"Position": {
+					"type": "vector",
+					"value" : "vec4(79.0, -42.0, 0.0, 0.0)"
+				},
+				"Scale": {
+					"type": "vector",
+					"value" : "vec4(6.0, 6.0, 0.0, 0.0)"
+				},
+				"Texture": {
+					"type": "string",
+					"value" : "BlockEnd.png"
+				},
+				"BodyType": {
+					"type": "string",
+					"value" : "static"
+				}
+			}
+		}
+	]
+}
