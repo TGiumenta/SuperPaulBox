@@ -1,0 +1,42 @@
+{
+  "type": "table",
+  "class": "MachineGun",
+  "value": {
+    "Name": {
+      "type": "string",
+      "value": "MachineGun"
+    },
+    "Position": {
+      "type": "vector",
+      "value": "vec4(2.7, 0.0, 0.0, 0.0)"
+    },
+    "Scale": {
+      "type": "vector",
+      "value": "vec4(6.0, 2.06, 0.0, 0.0)"
+    },
+    "FireRate": {
+      "type": "float",
+      "value": 0.125
+    },
+    "ProjectileDamage": {
+      "type": "float",
+      "value": 34
+    },
+    "ProjectileXSpeed": {
+      "type": "float",
+      "value": 80
+    },
+    "Texture": {
+      "type": "string",
+      "value": "MachineGun.png"
+    },
+    "HasRelativePosition": {
+      "type": "integer",
+      "value": 1
+    },
+    "HasRelativeFacing": {
+      "type": "integer",
+      "value": 1
+    }
+  }
+}

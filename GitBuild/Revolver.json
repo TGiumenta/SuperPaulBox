@@ -1,0 +1,42 @@
+{
+  "type": "table",
+  "class": "Revolver",
+  "value": {
+    "Name": {
+      "type": "string",
+      "value": "Revolver"
+    },
+    "Position": {
+      "type": "vector",
+      "value": "vec4(2.7, 0.0, 0.0, 0.0)"
+    },
+    "Scale": {
+      "type": "vector",
+      "value": "vec4(5.24, 2.0, 0.0, 0.0)"
+    },
+    "FireRate": {
+      "type": "float",
+      "value": 0.8
+    },
+    "ProjectileDamage": {
+      "type": "float",
+      "value": 100
+    },
+    "ProjectileXSpeed": {
+      "type": "float",
+      "value": 125
+    },
+    "Texture": {
+      "type": "string",
+      "value": "Revolver.png"
+    },
+    "HasRelativePosition": {
+      "type": "integer",
+      "value": 1
+    },
+    "HasRelativeFacing": {
+      "type": "integer",
+      "value": 1
+    }
+  }
+}

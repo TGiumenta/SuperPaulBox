@@ -1,0 +1,10 @@
+{
+    "Name": {
+        "type": "string",
+        "value": "Map"
+    },
+
+    "Children": {
+        "file": "ExampleTiles.json"
+    }
+}

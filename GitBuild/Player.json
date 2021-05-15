@@ -1,0 +1,97 @@
+{
+    "type": "table",
+    "class": "Player",
+    "value": {
+        "Name": {
+            "type": "string",
+            "value": "Player"
+        },
+
+        "Position": {
+            "type": "vector",
+            "value": "vec4(0.0, 2.0, 0.0, 0.0)"
+        },
+
+        "Scale": {
+            "type": "vector",
+            "value": "vec4(-5.0, 7.79, 0.0, 0.0)"
+        },
+
+        "Texture": {
+          "type": "string",
+          "value": "PlayerWalk.png"
+        },
+
+        "Tag": {
+          "type": "string",
+          "value": "Player"
+        },
+
+        "WalkSpeed": {
+            "type": "float",
+            "value": 900.0
+        },
+
+        "JumpForce": {
+            "type": "float",
+            "value": 4000.0
+        },
+
+        "AirControl": {
+            "type": "float",
+            "value": 300.0
+        },
+
+        "GravityScale": {
+            "type": "float",
+            "value": 2.0
+        },
+
+        "BodyType": {
+            "type": "string",
+            "value": "dynamic"
+        },
+
+        "AirDamping": {
+            "type": "float",
+            "value": 0.3
+        },
+
+        "GroundDamping": {
+            "type": "float",
+            "value": 3.0
+        },
+
+        "Density": {
+            "type": "float",
+            "value": 1.0
+        },
+
+        "Friction": {
+            "type": "float",
+            "value": 0.1
+        },
+
+        "Animations": {
+            "type": "table",
+            "value": [
+                {
+                    "file": "PlayerWalkAnim.json"
+                },
+                {
+                    "file": "PlayerJumpAnim.json"
+                },
+                {
+                    "file": "PlayerDeathAnim.json"
+                },
+                {
+                    "file": "PlayerIdleAnim.json"
+                }
+            ]
+        },
+
+        "Weapons": {
+            "file": "WeaponBase.json"
+        }
+    }
+}
