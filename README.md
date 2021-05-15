@@ -7,17 +7,16 @@ Download Visual Studio 2019 if you do not have it already from this link: https:
 After downloading, SuperPaulBox -> build -> FIEAGameEngine, Ctrl+F5 will allow you to play!
 
 ## Game Goals
-Navigate to the end of the level by using your weapon to defeat enemies along the way! \
-Enemies are worth varying amounts of points, so stay as long as you like and try to beat the high score! \
-Be careful: The timer is only 2 minutes long, and if you happen to take too long, you cannot save the princess.
+Acquire as many breads as you can for your duck! \
+As you collect breads, your weapon will change. Use this weapon to destroy trash bags. \
+If a trash bag reaches the dumpster, the trash bag will become enraged, respawn and move faster. \
+The longer you play, the more difficult the game gets! Attempt to get the high score!
 
 ## Game Information
-This project was completely in approximately 2-3 weeks, entirely by myself with the exception of openGLFramework and openGLStuff which was provided by Dr. Tom Carbone.
+This project was completed in approximately 2-3 weeks, in a group of 5 people.
 
-### Inputs
-W (Arrow Up) - Jump \
-A (Arrow Left) - Move Left \
-D (Arrow Right) - Mvoe Right \
-S (Arrow Down) - Crouch
-Space Bar - Fire Weapon \
-Enter - Start/End Game on Menus
+## Inputs
+Space Bar           - Jump \
+A (Arrow Left)      - Move Left \
+D (Arrow Right)     - Move Right \
+Space Bar           - Fire Weapon
