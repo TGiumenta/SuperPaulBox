@@ -47,12 +47,14 @@ Crate* CrateManager::SpawnCrate()
 
 Crate* CrateManager::SpawnCrate(const glm::vec4& originalPosition)
 {
+	// Get a random location that's not the same as the position the existing crate
 	size_t randomIndex = rand() % size;
 	while (m_CratePositions[randomIndex] == originalPosition)
 	{
 		randomIndex = rand() % size;
 	}
 
+	// Enqueue the swap weapon event 
 	Entity* entity = Game::GetGame()->GetWorldState().Instantiate("Crate", "Crate.json", m_CratePositions[randomIndex]);
 	SwapWeaponEvent payload{};
 	Event<SwapWeaponEvent> event(payload);

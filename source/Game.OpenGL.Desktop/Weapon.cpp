@@ -42,17 +42,19 @@ const Vector<Signature> Weapon::Signatures()
 
 Projectile* Weapon::SpawnProjectile(std::string&& fileName)
 {
+	// Instantiate the projectile and set its damage
 	Entity* entity = Game::GetGame()->GetWorldState().Instantiate("Projectile", fileName, GetPosition());
 	Projectile* projectile = entity->As<Projectile>();
 	assert(projectile != nullptr);
 	projectile->SetCurrentDamage(m_ProjectileDamage);
 
+	// Set the velocity of the projectile
 	PhysicsEntity* projectilePhysics = entity->As<PhysicsEntity>();
-
 	float facingModifier = (GetFacingDirection() == FacingDirection::FACING_RIGHT) ? 1.0f : -1.0f;
-
 	projectilePhysics->SetLinearVelocity(b2Vec2(m_ProjectileXSpeed * facingModifier, 0));
 
+	// Camera shake logic
+	// Enqueue camera move events approximately 50 milliseconds apart with different camera positions
 	for (size_t index = 0; index < 5; ++index)
 	{
 		Player::CameraShake payload{ glm::vec3(0, (rand() % 18) - 9, 70) };
@@ -61,6 +63,7 @@ Projectile* Weapon::SpawnProjectile(std::string&& fileName)
 		(std::make_shared<Event<Player::CameraShake>>(event), std::chrono::milliseconds(50*index));
 	}
 
+	// Lastly, enqueue a final event to move the camera back to the proper location
 	Player::CameraShake payload{ RenderUtil::GetDefaultCameraPosition() };
 	Event<Player::CameraShake> event(payload);
 	Game::GetGame()->GetWorldState().GetEventQueue().Enqueue

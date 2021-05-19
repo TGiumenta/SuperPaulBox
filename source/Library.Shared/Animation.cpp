@@ -52,9 +52,4 @@ namespace FieaGameEngine
 			m_TimeAccumulated = 0;
 		}
 	}
-
-	const TextureCoords& Animation::GetTextureCoords() const
-	{
-		return textureCoordinates[currentSprite];
-	}
 }

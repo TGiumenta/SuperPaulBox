@@ -29,8 +29,16 @@ public:
 
 	static const Vector<Signature> Signatures();
 
+	/// <summary>
+	/// Queries the list of weapons from JSON on the player
+	/// </summary>
+	/// <returns> The list of weapons </returns>
 	const Vector<Weapon*>& Weapons() { return m_WeaponList; }
 
+	/// <summary>
+	/// Queries the current weapon for the player
+	/// </summary>
+	/// <returns> The current weapon the player has equipped </returns>
 	Weapon* CurrentWeapon() { return m_CurrentWeapon; }
 
 	void SetCurrentWeaponByIndex(size_t index) { m_CurrentWeapon = m_WeaponList[index]; }
@@ -44,7 +52,6 @@ public:
 	};
 
 private: 
-
 	virtual void CreateFixture() override;
 
 	bool UpdateIsOnGround();

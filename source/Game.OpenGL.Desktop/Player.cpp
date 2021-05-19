@@ -76,12 +76,14 @@ void Player::Render(WorldState* worldState)
 
 void Player::Init(WorldState* state)
 {
+    // Find all the weapons from JSON
     Datum* weapons = Find("Weapons");
     if (weapons != nullptr)
     {
         size_t size = weapons->Size();
         for (size_t index = 0; index < size; ++index)
         {
+            // Add weapons to the list and initialize them
             Scope& scope = weapons->Get<Scope>(index);
             Weapon* weapon = static_cast<Weapon*>(&scope);
             m_WeaponList.PushBack(weapon);
@@ -89,8 +91,10 @@ void Player::Init(WorldState* state)
         }
     }
 
+    // Set the current weapon to the Pistol, it's always index 0
     SetCurrentWeaponByIndex(0);
     Adopt(*m_CurrentWeapon, "Children");
+
     PhysicsEntity::Init(state);
 }
 
@@ -118,8 +122,9 @@ void Player::Notify(const EventPublisher& publisher)
         const Event<SwapWeaponEvent>* swapWeaponEvent = publisher.As<Event<SwapWeaponEvent>>();
         if (swapWeaponEvent)
         {
-            size_t randomIndex = rand() % m_WeaponList.Size();
+            // Remove the current weapon, and grab the new random weapon to equip it
             m_CurrentWeapon->Orphan();
+            size_t randomIndex = rand() % m_WeaponList.Size();
             SetCurrentWeaponByIndex(randomIndex);
             Adopt(*m_CurrentWeapon, "Children");
         }
